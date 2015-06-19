@@ -1,0 +1,5 @@
+<resources>
+    <color name="bg_color">#F1F8E9</color>
+    <color name="btn_color">#558B2F</color>
+    <color name="btn_txt_color">#FFFFFF</color>
+</resources>
